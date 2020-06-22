@@ -1,0 +1,17 @@
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+body {
+  background-color: rgb(99, 240, 247);
+}
+
+h1 {
+  color: rgb(199, 36, 123);
+  font-size: 50px;
+  font-family: cursive;
+  text-align: center;
+}
